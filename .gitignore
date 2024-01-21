@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+node_modules/
+ejtos-react_budget_app\node_modules
